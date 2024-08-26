@@ -1,0 +1,535 @@
+{
+  "workspaces": {
+    "1": {
+      "main": {
+        "id": "0937305b9c2b622e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a21d0c1df11614f7",
+            "type": "split",
+            "dimension": 30.154405086285195,
+            "children": [
+              {
+                "id": "cb89ec3635fe518f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/标签面板.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c123d330f188c140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/任务面板.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "67e824f1588b20c8",
+            "type": "split",
+            "dimension": 69.8455949137148,
+            "children": [
+              {
+                "id": "3151b21025523144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/FleetingBox/202208161358.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2c80a2b025cc8172",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/FleetingBox/202208161336.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a192b696caa592f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "94f77b29427d9e87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d21c7e7590ac62bb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "aa31dc7587c08e18",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 158
+      },
+      "right": {
+        "id": "3054b0dd3fcea6b7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b54c5e6790ce65ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f0342f430ad55bf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "内容/FleetingBox/202208161358.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217
+      },
+      "active": "3151b21025523144"
+    },
+    "短路匹配": {
+      "main": {
+        "id": "0937305b9c2b622e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a21d0c1df11614f7",
+            "type": "split",
+            "dimension": 61.30790190735694,
+            "children": [
+              {
+                "id": "cb89ec3635fe518f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "原文.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c123d330f188c140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "选项.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "3151b21025523144",
+            "type": "leaf",
+            "dimension": 38.69209809264305,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "题目.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a192b696caa592f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "94f77b29427d9e87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d21c7e7590ac62bb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "aa31dc7587c08e18",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 158
+      },
+      "right": {
+        "id": "3054b0dd3fcea6b7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b54c5e6790ce65ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f0342f430ad55bf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "原文.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217
+      },
+      "active": "cb89ec3635fe518f"
+    },
+    "文章": {
+      "main": {
+        "id": "0937305b9c2b622e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a21d0c1df11614f7",
+            "type": "split",
+            "dimension": 67.12079927338783,
+            "children": [
+              {
+                "id": "cb89ec3635fe518f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考试/cet4/作文/文章/202012一.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c123d330f188c140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考试/cet4/作文/题目+翻译/202012一.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "3151b21025523144",
+            "type": "leaf",
+            "dimension": 32.879200726612176,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "考试/cet4/作文/模板/type1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a192b696caa592f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "94f77b29427d9e87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d21c7e7590ac62bb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "aa31dc7587c08e18",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 198.5
+      },
+      "right": {
+        "id": "3054b0dd3fcea6b7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b54c5e6790ce65ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f0342f430ad55bf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "考试/cet4/作文/文章/202012一.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217
+      },
+      "active": "d21c7e7590ac62bb"
+    },
+    "zk": {
+      "main": {
+        "id": "0937305b9c2b622e",
+        "type": "split",
+        "children": [
+          {
+            "id": "a21d0c1df11614f7",
+            "type": "split",
+            "dimension": 30.154405086285195,
+            "children": [
+              {
+                "id": "cb89ec3635fe518f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/标签面板.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c123d330f188c140",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/任务面板.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "67e824f1588b20c8",
+            "type": "split",
+            "dimension": 69.8455949137148,
+            "children": [
+              {
+                "id": "3151b21025523144",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/FleetingBox/202208151425.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2c80a2b025cc8172",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考试/cet4/作文/模板/type1.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "a192b696caa592f1",
+        "type": "split",
+        "children": [
+          {
+            "id": "94f77b29427d9e87",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d21c7e7590ac62bb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "aa31dc7587c08e18",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 158
+      },
+      "right": {
+        "id": "3054b0dd3fcea6b7",
+        "type": "split",
+        "children": [
+          {
+            "id": "b54c5e6790ce65ba",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2f0342f430ad55bf",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "内容/FleetingBox/202208151425.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217
+      },
+      "active": "3151b21025523144"
+    }
+  },
+  "active": "文章"
+}

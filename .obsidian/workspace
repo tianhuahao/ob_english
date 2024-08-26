@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "0937305b9c2b622e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2357ef83a501c2a",
+        "type": "split",
+        "children": [
+          {
+            "id": "b837fe3765165800",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cdfd8bf0b267b821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内容/litertureBox/笔记/笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a192b696caa592f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f77b29427d9e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21c7e7590ac62bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa31dc7587c08e18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Miao embroidery, a ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dee792ba548b7605",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 198.5
+  },
+  "right": {
+    "id": "3054b0dd3fcea6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54c5e6790ce65ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0342f430ad55bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "内容/litertureBox/笔记/笔记.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1d8f593eca50e666",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "内容/litertureBox/笔记/笔记.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3155015424662b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a92ca5e467aaf8e3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "内容/litertureBox/笔记/笔记.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "floating": {
+    "id": "54fd17eec8b16ddf",
+    "type": "floating",
+    "children": [
+      {
+        "id": "5b22af4e96343da9",
+        "type": "window",
+        "children": [
+          {
+            "id": "e71f7a20ccb252c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 864,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "cdfd8bf0b267b821",
+  "lastOpenFiles": [
+    "未命名.md",
+    "内容/litertureBox/考试/cet4/作文/翻译/创客.md",
+    "内容/litertureBox/上课/课文/原文/Looking for a job after university.md",
+    "内容/litertureBox/考试/cet4/题目/内容.md",
+    "内容/litertureBox/考试/cet4/作文/翻译/如何处理室友关系.md",
+    "内容/litertureBox/考试/cet4/题目/选项.md",
+    "内容/litertureBox/考试/cet4/题目/答案.md",
+    "附件/Pasted image 20220907144134.png",
+    "附件/Pasted image 20220514162528.png",
+    "内容/litertureBox/考试/cet4/作文/模板/type1.md"
+  ]
+}

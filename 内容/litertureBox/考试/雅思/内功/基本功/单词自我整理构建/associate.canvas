@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"49ad759125ca7d72","type":"text","text":"second\n由于第二是追着第一的，所以sec表示追随，= follow","x":40,"y":-113,"width":376,"height":273},
+		{"id":"d6ed95c51f5170b9","type":"text","text":"secu","x":820,"y":-260,"width":184,"height":113},
+		{"id":"326e12d932dca460","type":"text","text":"sequ","x":820,"y":-20,"width":184,"height":120},
+		{"id":"eb97da0a5c67793c","type":"text","text":"soc","x":1204,"y":-260,"width":184,"height":113},
+		{"id":"2db5d55c21ae3faf","type":"text","text":"society \n- n. 社会","x":1588,"y":-336,"width":232,"height":113},
+		{"id":"3593263a9abe28be","type":"text","text":"associate\n- v. 联系","x":1588,"y":-203,"width":184,"height":113},
+		{"id":"a6b7048e076e72e4","type":"text","text":"as表示强调","x":1972,"y":-203,"width":184,"height":113},
+		{"id":"1002f00b71c074ba","type":"text","text":"sequence\n- 名词序列","x":1204,"y":-20,"width":184,"height":120},
+		{"id":"1fd5624fca404974","type":"text","text":"consequence\n- n. 结果","x":1588,"y":-20,"width":184,"height":120}
+	],
+	"edges":[
+		{"id":"6d8ca6d231f1eef1","fromNode":"49ad759125ca7d72","fromSide":"right","toNode":"d6ed95c51f5170b9","toSide":"left"},
+		{"id":"a92f19b31362416c","fromNode":"49ad759125ca7d72","fromSide":"right","toNode":"326e12d932dca460","toSide":"left"},
+		{"id":"eb0afe8ac5b4a3de","fromNode":"d6ed95c51f5170b9","fromSide":"right","toNode":"eb97da0a5c67793c","toSide":"left"},
+		{"id":"42faca064c65fbef","fromNode":"eb97da0a5c67793c","fromSide":"right","toNode":"2db5d55c21ae3faf","toSide":"left"},
+		{"id":"015a8c9dcab4b093","fromNode":"eb97da0a5c67793c","fromSide":"right","toNode":"3593263a9abe28be","toSide":"left"},
+		{"id":"624eb837cfb1a1b2","fromNode":"3593263a9abe28be","fromSide":"right","toNode":"a6b7048e076e72e4","toSide":"left"},
+		{"id":"db02b150e44f849d","fromNode":"326e12d932dca460","fromSide":"right","toNode":"1002f00b71c074ba","toSide":"left"},
+		{"id":"1480557d9a1491aa","fromNode":"1002f00b71c074ba","fromSide":"right","toNode":"1fd5624fca404974","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"77f5406a53ee9a58","type":"text","text":"兄弟，要用美国加州比较地道、有点野的风格来说\"喝酒\"，你可以说 \"Let's get hammered\" 或者 \"Let's get wasted\"。这两个短语在美国俚语中比较常见，用来表达喝酒的意思。","x":-125,"y":-30,"width":385,"height":270},
+		{"id":"a9d1e19cc78a2841","type":"text","text":"\"兄弟\"这个词在不同语境下有不同的翻译，具体要根据上下文来选择合适的表达方式。以下是一些常见情况下的翻译：\n\n1. **亲兄弟**（指血亲关系）：brother\n2. **朋友间互称**：bro, buddy, mate\n3. **同辈好友间互称**：buddy, pal, mate\n4. **形式化场合**：sir（尊称，有时候用于表达敬意）\n5. **团队、组织中的成员**：comrade（在某些背景下使用，比如军队或政治团体）\n\n总的来说，翻译\"兄弟\"时应根据具体情境来选择最合适的表达，以确保翻译地道且符合语境。","x":460,"y":-30,"width":385,"height":270},
+		{"id":"2d5434f760c1d883","type":"text","text":"\"兄弟你好香\"这句话在口语中常用来形容某人打扮或穿着很时尚、很有品位。在翻译时，可以采用以下几种方式表达：\n\n1. **You look sharp / _ʃɑːp_, bro!**（比较口语化的表达）\n2. **Bro, you're looking stylish/ _ˈstaɪlɪʃ_!**\n3. **Hey bro, you're so fashionable / _ˈfæʃnəbl_!**\n\n这些翻译都能够传达出原句的意思，表达出对对方打扮或穿着的赞美之情。","x":1040,"y":-95,"width":555,"height":400}
+	],
+	"edges":[
+		{"id":"14a3df0943b8d2d9","fromNode":"77f5406a53ee9a58","fromSide":"right","toNode":"a9d1e19cc78a2841","toSide":"left"},
+		{"id":"b1e53161d4faa707","fromNode":"a9d1e19cc78a2841","fromSide":"right","toNode":"2d5434f760c1d883","toSide":"left"}
+	]
+}

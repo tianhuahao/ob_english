@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"0ae4a5971988fd7a","type":"file","file":"附件/Pasted image 20240320194604.png","x":-120,"y":-402,"width":400,"height":188},
+		{"id":"ab6cd30b16c75fef","type":"file","file":"附件/Pasted image 20240320195142.png","x":-120,"y":485,"width":400,"height":180},
+		{"id":"77c384ad3d0b645b","type":"file","file":"附件/Pasted image 20240320195303.png","x":-120,"y":147,"width":400,"height":187},
+		{"id":"64fac4261db5dc8f","type":"file","file":"附件/Pasted image 20240320195044.png","x":539,"y":143,"width":400,"height":197},
+		{"id":"fc47aaedd8ab6421","type":"file","file":"附件/Pasted image 20240320195108.png","x":1139,"y":155,"width":400,"height":172},
+		{"id":"2c857355a36d509b","type":"file","file":"附件/Pasted image 20240320194629.png","x":539,"y":-602,"width":399,"height":198},
+		{"id":"6d8d1c6577e3c9e8","type":"file","file":"附件/Pasted image 20240320194723.png","x":539,"y":-247,"width":400,"height":172},
+		{"id":"e43f8c309f230f2b","type":"file","file":"附件/Pasted image 20240320194658.png","x":1210,"y":-602,"width":400,"height":193},
+		{"id":"90066505f5033393","type":"file","file":"附件/devastation.png","x":1191,"y":-250,"width":419,"height":175},
+		{"id":"0c5540358582e54a","type":"file","file":"附件/Pasted image 20240320195458.png","x":539,"y":475,"width":400,"height":200},
+		{"id":"759c4361261b51a2","type":"file","file":"附件/Pasted image 20240320195617.png","x":0,"y":1169,"width":400,"height":209},
+		{"id":"abe7fbec4d17f8ec","type":"file","file":"附件/Pasted image 20240323165835.png","x":600,"y":1182,"width":400,"height":183},
+		{"id":"b9e92daa3e88ff97","type":"file","file":"附件/Pasted image 20240323165905.png","x":1140,"y":1191,"width":399,"height":166},
+		{"id":"5d08fa82438960db","type":"file","file":"附件/Pasted image 20240320195631.png","x":0,"y":1672,"width":400,"height":208},
+		{"id":"69f730b3af9487c2","type":"file","file":"附件/Pasted image 20240320195659.png","x":600,"y":1686,"width":400,"height":180},
+		{"id":"6f8a3307186149d0","type":"file","file":"附件/Pasted image 20240323170747.png","x":0,"y":2080,"width":400,"height":185},
+		{"id":"898b73adca52e78f","type":"file","file":"内容/战地/2042/2042.md","x":-1300,"y":340,"width":440,"height":515}
+	],
+	"edges":[
+		{"id":"b52645b4f975c079","fromNode":"898b73adca52e78f","fromSide":"right","toNode":"0ae4a5971988fd7a","toSide":"left"},
+		{"id":"73a02028f1af9a13","fromNode":"0ae4a5971988fd7a","fromSide":"right","toNode":"2c857355a36d509b","toSide":"left"},
+		{"id":"125a71baeeaa5c45","fromNode":"0ae4a5971988fd7a","fromSide":"right","toNode":"6d8d1c6577e3c9e8","toSide":"left"},
+		{"id":"11140db2babefee8","fromNode":"2c857355a36d509b","fromSide":"right","toNode":"e43f8c309f230f2b","toSide":"left"},
+		{"id":"1d16c88ffff23f92","fromNode":"6d8d1c6577e3c9e8","fromSide":"right","toNode":"90066505f5033393","toSide":"left"},
+		{"id":"9b830c4fc0ce71c5","fromNode":"898b73adca52e78f","fromSide":"right","toNode":"77c384ad3d0b645b","toSide":"left"},
+		{"id":"b65a0d15f79f7110","fromNode":"64fac4261db5dc8f","fromSide":"right","toNode":"fc47aaedd8ab6421","toSide":"left"},
+		{"id":"d0bd8bb96e462946","fromNode":"898b73adca52e78f","fromSide":"right","toNode":"ab6cd30b16c75fef","toSide":"left"},
+		{"id":"dc9e8f6b4dc7f7d1","fromNode":"77c384ad3d0b645b","fromSide":"right","toNode":"64fac4261db5dc8f","toSide":"left"},
+		{"id":"59375bfc13fa37c2","fromNode":"ab6cd30b16c75fef","fromSide":"right","toNode":"0c5540358582e54a","toSide":"left"},
+		{"id":"9ef238ad030ea7a0","fromNode":"898b73adca52e78f","fromSide":"right","toNode":"759c4361261b51a2","toSide":"left"},
+		{"id":"d1f5f5fd952ac960","fromNode":"5d08fa82438960db","fromSide":"right","toNode":"69f730b3af9487c2","toSide":"left"},
+		{"id":"9c9de3d51256e106","fromNode":"759c4361261b51a2","fromSide":"right","toNode":"abe7fbec4d17f8ec","toSide":"left"},
+		{"id":"32c5005ffc23edb3","fromNode":"abe7fbec4d17f8ec","fromSide":"right","toNode":"b9e92daa3e88ff97","toSide":"left"},
+		{"id":"04f872e3549aa119","fromNode":"898b73adca52e78f","fromSide":"right","toNode":"5d08fa82438960db","toSide":"left"},
+		{"id":"308bc01a79c295a2","fromNode":"898b73adca52e78f","fromSide":"right","toNode":"6f8a3307186149d0","toSide":"left"}
+	]
+}

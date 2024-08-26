@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"db6f4f2aabba916f","type":"text","text":"gener$\\to$gene 基因","x":160,"y":-238,"width":328,"height":124},
+		{"id":"7775de6b16e4539b","type":"text","text":"generation gap n. 代沟","x":688,"y":138,"width":328,"height":84},
+		{"id":"7f2ee2f1ddb4581f","type":"text","text":"generation n.一代","x":160,"y":200,"width":328,"height":84},
+		{"id":"89c969d376bfa124","type":"text","text":"the 4th/5th genetation of mobile network\n4G/5G\n","x":688,"y":242,"width":328,"height":98},
+		{"id":"68978c533503bb33","type":"text","text":"繁殖、生产","x":560,"y":-238,"width":328,"height":124},
+		{"id":"ae33378ec3279694","type":"text","text":"-ate 动词后缀","x":160,"y":-28,"width":328,"height":84},
+		{"id":"62eb9ba35db5cc8f","type":"text","text":"generate v. 产生，引起\n- to generate electricity  / _ɪˌlekˈtrɪsəti_   / heat / _hiːt_\n- 发电，发热\n- The proposal / _prəˈpəʊzl_ has generated a lot of interest / _ˈɪntrəst_.\n- 这项提议引起了众多的关注","x":-380,"y":-134,"width":340,"height":296}
+	],
+	"edges":[
+		{"id":"c1d1d3d2f54a30ff","fromNode":"62eb9ba35db5cc8f","fromSide":"right","toNode":"db6f4f2aabba916f","toSide":"left"},
+		{"id":"3ba364e6fbeb3bce","fromNode":"db6f4f2aabba916f","fromSide":"right","toNode":"68978c533503bb33","toSide":"left"},
+		{"id":"ce4b4bdaac5dabdb","fromNode":"62eb9ba35db5cc8f","fromSide":"right","toNode":"ae33378ec3279694","toSide":"left"},
+		{"id":"747396b80f3f827d","fromNode":"62eb9ba35db5cc8f","fromSide":"right","toNode":"7f2ee2f1ddb4581f","toSide":"left"},
+		{"id":"73cc6130d118a661","fromNode":"7f2ee2f1ddb4581f","fromSide":"right","toNode":"7775de6b16e4539b","toSide":"left"},
+		{"id":"686e7b9fe96ca6c3","fromNode":"7f2ee2f1ddb4581f","fromSide":"right","toNode":"89c969d376bfa124","toSide":"left"}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"d78217116bd34336","type":"text","text":"# 听力","x":-199,"y":-80,"width":279,"height":166},
+		{"id":"9108dce0d6a4953c","type":"text","text":"# reports\n\n\n","x":533,"y":-480,"width":387,"height":220},
+		{"id":"6ee487a3826fbdb7","type":"text","text":"1.本片报道的主要内容是什么？\n.A) A proposed  / _prəˈpəʊzd_  policy allowing Africans to travel in Africa without a visa.一项关于允许非洲人在非洲旅行时无需签证的提议的政策\nB) An agreement among 13 African countries to set up a free-trade zone.一份关于13个非洲国家建立自由贸易区的协议\nC) A plan to invite all African countries to join the African Union.一份关于邀请所有非洲国家加入非洲联盟的计划\nD) An important initiative to permit tourists to visit Africa without a visa一份关于允许旅客免签证访问非洲的重要提议\n2.A) It will attract more investments/ _ɪnˈvɛstmənts_ from all over the world.\n它将会从世界各地吸引更多投资\nB) It will help many African countries reduce trade deficits.\n它将帮助许多非洲国家减少贸易赤字\nC) It will reduce the cost of trade between African countries.\nD) It will allow Africans to play a bigger role in world trade.\nOuestions 3 and 4 are based on the news report you have just heard\n3.A Cooling down volcanic rock with sea water\nB) Storing carbon dioxide underground as a gas\nC) Capturing carbon dioxide and burying it under the sea.\nD) Pumping carbon dioxide underground to form stone.\n4.A) Lack of burying ground.\nB) Long time for processing.\nC) High consumption of water\nD) Enormous cost of energy.\nOuestions 5 to 7 are based on the news report you have just heard.,\n5. A) It varies with the seasons.\nB) It has been on the decline\n6.A) They emphasize food variety.\nB) They prefer French stick loaves.\nC) It has caused nationwide concern.\nD) It is ninety grams daily on average\nC) They do more cooking than men.\nD) They favor diets lower in calories","x":1306,"y":-1040,"width":574,"height":397},
+		{"id":"4dd1cf4cbda0f893","type":"text","text":"你好，deficit是一个英文单词，意思是“赤字，逆差，亏损，不足”](https://blog.csdn.net/weixin_36202603/article/details/112899297)[1](https://blog.csdn.net/weixin_36202603/article/details/112899297)。如果你想记忆这个单词，可以尝试使用词根词缀记忆法。其中，de-表示“向下”，fic-表示“做”，it-表示“经济走下坡路”](https://blog.csdn.net/weixin_36202603/article/details/112899297)[1](https://blog.csdn.net/weixin_36202603/article/details/112899297)。因此，deficit可以理解为“经济走下坡路，不足额，赤字”](https://blog.csdn.net/weixin_36202603/article/details/112899297)[1](https://blog.csdn.net/weixin_36202603/article/details/112899297)[。如果你想了解更多关于英语单词的词源和词根，可以参考Etymonline](https://www.etymonline.com/c","x":2174,"y":-1180,"width":466,"height":260},
+		{"id":"33a7747718d7bb1e","x":2123,"y":-733,"width":250,"height":60,"type":"text","text":"a women "}
+	],
+	"edges":[
+		{"id":"dce8e9641c4fce1e","fromNode":"d78217116bd34336","fromSide":"right","toNode":"9108dce0d6a4953c","toSide":"left"},
+		{"id":"e50f90af7f7232fd","fromNode":"9108dce0d6a4953c","fromSide":"right","toNode":"6ee487a3826fbdb7","toSide":"left"},
+		{"id":"722671c52dd00fd3","fromNode":"6ee487a3826fbdb7","fromSide":"right","toNode":"4dd1cf4cbda0f893","toSide":"left"},
+		{"id":"64a1c4514236b756","fromNode":"6ee487a3826fbdb7","fromSide":"right","toNode":"33a7747718d7bb1e","toSide":"left"}
+	]
+}

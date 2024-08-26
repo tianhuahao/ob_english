@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"06aee573dae54bb5","type":"text","text":"入手","x":-326,"y":-107,"width":366,"height":247},
+		{"id":"1a8748877e04397f","type":"text","text":"范文语段","x":380,"y":-517,"width":366,"height":247},
+		{"id":"6024997441984318","type":"text","text":"经济/统计/历史原文维基百科对照文献","x":380,"y":-250,"width":366,"height":247},
+		{"id":"f65a491a41e2f501","type":"text","text":"词汇","x":380,"y":17,"width":366,"height":247},
+		{"id":"b8d1769426b08810","type":"text","text":"TED","x":380,"y":284,"width":366,"height":247}
+	],
+	"edges":[
+		{"id":"ead1f5588a6bc286","fromNode":"06aee573dae54bb5","fromSide":"right","toNode":"1a8748877e04397f","toSide":"left"},
+		{"id":"9c46cbf4714eb5c8","fromNode":"06aee573dae54bb5","fromSide":"right","toNode":"6024997441984318","toSide":"left"},
+		{"id":"01502479dca49ede","fromNode":"06aee573dae54bb5","fromSide":"right","toNode":"f65a491a41e2f501","toSide":"left"},
+		{"id":"65a7017a1a79be5a","fromNode":"06aee573dae54bb5","fromSide":"right","toNode":"b8d1769426b08810","toSide":"left"}
+	]
+}

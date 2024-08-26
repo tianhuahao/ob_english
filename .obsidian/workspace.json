@@ -1,0 +1,357 @@
+{
+  "main": {
+    "id": "0937305b9c2b622e",
+    "type": "split",
+    "children": [
+      {
+        "id": "4782580bc84545b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbe693a7392f7484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "14de90bf5c9360fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内容/litertureBox/考试/海叔/8.14/Watch · ‘Pretty wild ride’ as speedway car flies  over spectator fence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8176eea58ccacca4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "内容/任务面板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9109e00c75b0f9e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "模板/三段式.canvas",
+                "viewState": {
+                  "x": 426.5,
+                  "y": -442,
+                  "zoom": -1.2980117838713652
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a192b696caa592f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "94f77b29427d9e87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d21c7e7590ac62bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "aa31dc7587c08e18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "58547d8f48a395a2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "3506036373aea207",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 585.5
+  },
+  "right": {
+    "id": "3054b0dd3fcea6b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "b54c5e6790ce65ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f0342f430ad55bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb2bf979424b9424",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3ebf0c56929a91a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "28e7bb81669620d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md"
+              }
+            }
+          },
+          {
+            "id": "3d2ed3d51383c1cb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "floating": {
+    "id": "4349bbc2b36c1290",
+    "type": "floating",
+    "children": [
+      {
+        "id": "e7e84704293f1c19",
+        "type": "window",
+        "children": [
+          {
+            "id": "52acc9c2724896fd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "91fcf820384033fe",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/Notes on the Next War - A serious topical letter.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "dffd7574989c4014",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3b058abb7d91d6a7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/Notes on the Next War - A serious topical letter.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 32,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "8aed5abe5b889f77",
+        "type": "window",
+        "children": [
+          {
+            "id": "a6fd9d573d54524d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "8262de1b7f8d8b7f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/litertureBox/书籍/拜登1998公然羞辱军人/The Pentagon will not be responsible for any unit in the war.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 768,
+        "y": 0,
+        "width": 768,
+        "height": 864,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "bbe693a7392f7484",
+  "lastOpenFiles": [
+    "内容/litertureBox/文献/development project.md",
+    "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+    "内容/任务面板.md",
+    "内容/litertureBox/考试/海叔/内容.md",
+    "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/Notes on the Next War - A serious topical letter.md",
+    "内容/litertureBox/考试/海叔/8.24/'Micro-weddings' at Vancouver city hall reach almost 600 since 2020.md",
+    "模板/Heading.md",
+    "内容/litertureBox/考试/海叔/未命名.md",
+    "模板/三段式.canvas",
+    "内容/litertureBox/考试/海叔/8.14/Watch · ‘Pretty wild ride’ as speedway car flies  over spectator fence.md",
+    "内容/litertureBox/考试/海叔/8.24",
+    "内容/litertureBox/考试/海叔/8.20/未命名.md",
+    "内容/litertureBox/考试/海叔/8.16/Doctors ask Liberal government to reconsider capital gains tax change.md",
+    "内容/litertureBox/书籍/拜登1998公然羞辱军人/The Pentagon will not be responsible for any unit in the war.md",
+    "内容/litertureBox/考试/海叔/8.20",
+    "内容/litertureBox/书籍/拜登1998公然羞辱军人",
+    "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/致下一场战争.canvas",
+    "内容/litertureBox/书籍/海明威/发展总结.md",
+    "内容/学习思路/整段对照.md",
+    "内容/学习思路/思路.canvas",
+    "内容/学习思路",
+    "内容/我的语言/词表.md",
+    "内容/我的语言/控制论.canvas",
+    "内容/我的语言",
+    "内容/战地/2020/作出回答.md",
+    "内容/战地/2042/2042.md",
+    "内容/战地/2042/2042.canvas",
+    "内容/战地/2020",
+    "内容/战地/2042",
+    "内容/战地",
+    "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR",
+    "内容/litertureBox/书籍/海明威",
+    "内容/litertureBox/考试/海叔/8.3/How Dan-D Foods founder went from Vietnam refugee to Canada’s ‘Cashew King’ Dan-D.md",
+    "内容/litertureBox/考试/海叔/8.8/compares dentists' 'fears' on dental-care program to medicare rollout.md",
+    "内容/litertureBox/考试/海叔/8.9/Survivors rally for justice 2 years after a fire killed 2 people and gutted Vancouver's Winters Hotel.md",
+    "内容/litertureBox/考试/海叔/8.1/8.1.canvas",
+    "内容/litertureBox/考试/海叔/8.15/未命名.md",
+    "内容/litertureBox/考试/雅思/内功/基本功/长难句解析/长难句.md",
+    "内容/litertureBox/考试/雅思/内功/基本功/前缀.canvas",
+    "内容/litertureBox/考试/雅思/内功/基本功/单词自我整理构建/听写/测试.md",
+    "内容/litertureBox/歌曲/all_my_people.md",
+    "内容/litertureBox/考试/雅思/内功/基本功/超易错/超易错词checklist.md",
+    "内容/litertureBox/考试/雅思/内功/基本功/核心1200/核心1200拆分.canvas",
+    "内容/litertureBox/考试/雅思/做卷子/敲门.canvas",
+    "附件/Pasted image 20240816165319.png",
+    "内容/litertureBox/考试/海叔/8.16/未命名.canvas",
+    "附件/Pasted image 20240811155419.png",
+    "附件/QQ_1722414579143.png",
+    "附件/IMG_20240730_190448_edit_60299153915642.jpg",
+    "附件/Pasted image 20240323170747.png",
+    "附件/Pasted image 20240323165905.png",
+    "附件/Pasted image 20240323165835.png",
+    "附件/Pasted image 20240320195659.png",
+    "附件/Pasted image 20240320195631.png",
+    "附件/Pasted image 20240320195617.png"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"51dfa8a6c628fde0","type":"text","text":"# Federal Reserve /ˈfɛdərəl rɪˈzɜrv/\n\nfor more on the market and all the record highs we've been seeing \nwant to bring in Jeremey siegel Professor Meritus of Finance at the University of Pennsylvania's Warden School of Business \nYou've been a longtime bull,but the truth is three have been moments where you 've pulled back or told folks hesitate.\nWhere are you now,professor?\nWell, i still think the momentum is there.\nMake the trend  / _trend_ your friend.\n","x":-411,"y":-91,"width":611,"height":491},
+		{"id":"6c88074188c89922","type":"text","text":"这句话的语法结构如下：\n\n1. **主句**：“we want to bring in Jeremey Siegel”\n    \n    - **主语**：“we”\n    - **谓语**：“want”\n    - **宾语**：“to bring in Jeremey Siegel”\n2. **宾语从句**：“Jeremey Siegel is Professor Meritus of Finance  / _ˈfaɪnæns_ at the University of Pennsylvania’s / _pensɪl'veɪnjə_ Warden  / _ˈwɔːdn_ School of Business”\n    \n    - **主语**：“Jeremey Seagull”\n    - **谓语**：“is”\n    - **宾语**：“Professor Meritus of Finance at the University of Pennsylvania’s Warden School of Business”\n3. **状语从句**：“for more on the market and all the record highs we’ve been seeing”\n    \n    - 这个从句描述了主句的目的或原因，即为了更深入地了解市场和我们一直在看到的所有创纪录的最高点，我们想要请来Jeremy Seagull教授。\n\n这句话的主要意思是，为了更深入地了解市场和我们一直在看到的所有创纪录的最高点，我们想要请来Jeremy Seagull教授，他是宾夕法尼亚大学沃顿商学院的金融荣誉退休教授。","x":736,"y":-600,"width":884,"height":486}
+	],
+	"edges":[
+		{"id":"c9cffec7ad97b90b","fromNode":"51dfa8a6c628fde0","fromSide":"right","toNode":"6c88074188c89922","toSide":"left"}
+	]
+}

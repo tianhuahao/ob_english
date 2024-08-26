@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"e6481edc87f591ef","type":"file","file":"内容/litertureBox/笔记/笔记.md","x":-322,"y":-177,"width":400,"height":400},
+		{"id":"83de50e2d62ae4f3","type":"text","text":"\n\"Hey, what's up?\" 是一个常用的口语问候，意思是“嘿，最近怎么样？”或者“嗨，有什么新鲜事吗？”这句话通常用来打招呼或者开始一个对话，询问对方近况或者有没有什么新鲜事要分享。在非正式的场合，这是一个很常见的开场白。","x":560,"y":-1040,"width":400,"height":200},
+		{"id":"789cc3a935e744b3","type":"text","text":"Cuisine 菜肴\n\nyou have to use abjective words\n\n- chinese food\n- Japanese food\n- Korean food \n- Thai food \n- American food\n- Italian food\n- French food\n- Mexican food\n- ","x":1120,"y":-1040,"width":400,"height":200},
+		{"id":"35d55f9f9c46c60e","type":"text","text":"**Role-Play**\n\n*Scene1: Make a Reservation*\n*场景1：预约  A:Customer B:Waiter*\nA: Hi,I'd like to make a reservation for tonight at 7.你好，我想预约今晚七点\nB: Sure. How many people? 好的，有几个人？\nA:4 \nB: OK,can I have a name for the reservation?\nA: Andrew./ _ˈændru:_\n","x":1760,"y":-1160,"width":400,"height":440},
+		{"id":"1c27e1e8c392a23c","type":"text","text":"\n\n$$\n\\begin{array}{}\n I'd \\ like\\ to\\ make\\ a\\\\\n \\downarrow \\\\\nI'\\cancel{d} \\ li\\cancel{k}e\\ ta\\ make\\ a\\\\\n\\end{array}\n $$\n\n- 地道发音tip 1:t/d/k在结尾时发音不要太重\n- to经常变成ta\n- make a 连读\n\n\n","x":2400,"y":-1760,"width":380,"height":360},
+		{"id":"0b9b43802dc35dce","type":"text","text":"\"t\"、\"d\" 和 \"k\" 这三个辅音在单词结尾时发音不要太重的原因主要是因为它们处于音节的封闭位置。当这些辅音位于单词的结尾时，通常会产生一个轻声音，也就是语音学上所说的「轻声母」。这种轻声母的发音方式是通过轻轻释放气流而不做明显的爆破，与声带震动无关。\n\n在英语中，当这些辅音位于单词的结尾时，如果发音太重或者带有明显的爆破声，反而会让发音听起来生硬或不自然。因此，在正常的英语口语中，通常会将这些辅音发音得相对轻柔，避免过度强调或使整个发音变得僵硬。\n\n总的来说，轻声母的发音方式使得发音更加自然流畅，符合英语语音的习惯和规范。","x":2980,"y":-1960,"width":380,"height":360},
+		{"id":"a2d0cfc7669a7df7","type":"text","text":"\"to\" 变成 \"ta\" 这种读法通常被称为美式口语中的非正式缩略发音。这种现象主要出现在口语中，特别是在非正式的交谈和流行文化中比较常见。这种发音方式更多地反映了口语化和非正式化的特点，而在正式场合或书面语中并不常见。\n\n因此，\"to\" 变成 \"ta\" 的读法在美式口语中相对常见，但在正式的语言环境中可能会被视为不够规范或正式。","x":2980,"y":-2420,"width":380,"height":360},
+		{"id":"b27f706a76a91f9d","type":"text","text":"BF：Are you angry at me?\nGF: No.\nBF: Are you sure?\nGF: Yes . Just go away.I don't wanna talk $t\\cancel{o} e$ you right now.\nBF: OK \nGF: Wow I can't believe you were about to leave me.\nBF: Huh？\nGF ：You always do this.You don't care about me.\nBF: I literally have no idea what you're talking about.","x":560,"y":-400,"width":400,"height":360},
+		{"id":"34b146fabba71eb3","type":"text","text":"- He's my only friend\n- He's literally/ _ˈlɪtərəli_ my only friend\n- 简直，真的","x":1160,"y":-400,"width":400,"height":360},
+		{"id":"53d9e1849793b41d","type":"text","text":"- It's rainning cats and dogs.\n- 外面下很大雨\n- It's literally raining cats and dogs.\n- 外面真的下了很多猫和狗\n- 字面意义上的","x":1760,"y":-400,"width":400,"height":360},
+		{"id":"ec1894b25a3533d7","type":"text","text":"GF：Did you forget my birthbay again?\nBF: No no. Of course not.\nGF: Yes you did .Don't deny it.\nBF:Alright, how can I make it up to you?","x":2360,"y":-400,"width":400,"height":360},
+		{"id":"522580ca1cc06e42","type":"text","text":"GF:Did you meet with Sarah today?\nBF:We were just getting coffee.\nAre you jealous of her?\nGF:No , I' m not.\nBF: Let me take you out to dinner.\nLet me $\\to$ Lemme","x":2960,"y":-400,"width":400,"height":360}
+	],
+	"edges":[
+		{"id":"4a6bf3af710e6bbd","fromNode":"e6481edc87f591ef","fromSide":"right","toNode":"83de50e2d62ae4f3","toSide":"left"},
+		{"id":"13d9967eeea67891","fromNode":"83de50e2d62ae4f3","fromSide":"right","toNode":"789cc3a935e744b3","toSide":"left"},
+		{"id":"2cf413ded1e26442","fromNode":"789cc3a935e744b3","fromSide":"right","toNode":"35d55f9f9c46c60e","toSide":"left"},
+		{"id":"7047f6acc0b95a1b","fromNode":"35d55f9f9c46c60e","fromSide":"right","toNode":"1c27e1e8c392a23c","toSide":"left"},
+		{"id":"28d3b7c598901712","fromNode":"1c27e1e8c392a23c","fromSide":"right","toNode":"0b9b43802dc35dce","toSide":"left"},
+		{"id":"5c80e895468d4224","fromNode":"1c27e1e8c392a23c","fromSide":"right","toNode":"a2d0cfc7669a7df7","toSide":"left"},
+		{"id":"94519a9e990490b6","fromNode":"e6481edc87f591ef","fromSide":"right","toNode":"b27f706a76a91f9d","toSide":"left"},
+		{"id":"bc531d5f08dd6d10","fromNode":"b27f706a76a91f9d","fromSide":"right","toNode":"34b146fabba71eb3","toSide":"left"},
+		{"id":"a8a1a3d788f3389d","fromNode":"34b146fabba71eb3","fromSide":"right","toNode":"53d9e1849793b41d","toSide":"left"},
+		{"id":"63bc2466e44bc9de","fromNode":"53d9e1849793b41d","fromSide":"right","toNode":"ec1894b25a3533d7","toSide":"left"},
+		{"id":"366ae68943b1d133","fromNode":"ec1894b25a3533d7","fromSide":"right","toNode":"522580ca1cc06e42","toSide":"left"}
+	]
+}

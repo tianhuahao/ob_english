@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"06fe20d34e714671","type":"text","text":"","x":-570,"y":275,"width":250,"height":125},
+		{"id":"58ab80ae77d9e185","type":"text","text":"Watching TED talks on economics and recalling the Euler's formula on complex plane that I learned before, I suddenly realized that social development is closely related to the natural growth rate e. As one speaker mentioned, economic growth urgently requires coordinated development of finance, society, politics and other aspects. The society needs synchronous evolution.\n\n观看TED经济类演讲,并联想起我之前学习的复平面上的欧拉公式,我突然意识到,社会发展与自然增长率e存在着密切关联。正如一位演讲者所言,经济增长迫切需要金融、社会、政治等各个方面协调发展,社会需要同步进化。\n\n欧拉公式指出,复指数函数$e^{ix}$的值等于自然指数e和虚数i的复合。其中$e$代表自然增长,$i$代表变化周期。社会发展也有其内在的增长规律,同时外部环境的周期性变化也影响着发展进程。金融周期、政治周期等都会对社会发展造成影响。因此,经济增长不能仅仅依靠单一方式,需要各个子系统协调发展,使之与时俱进,实现社会的整体进步。\n\nEuler's formula states that the value of the complex exponential function e^ix equals the compound of the natural exponential e and the imaginary unit i. Where e represents natural growth and i represents cyclical change. Social development also has its inherent growth laws, while external environmental cycles also affect the development process. Financial cycles, political cycles, etc. will all impact social progress. Therefore, economic growth cannot rely solely on a single approach, but requires coordinated development of various subsystems, so that the society can keep up with the times and achieve overall advancement.","x":-40,"y":-260,"width":565,"height":290},
+		{"id":"3c2c24242a7ed88d","type":"text","text":"这句话是正确的。复指数函数 $e^{ix}$ 的值等于自然指数 $e$ 和虚数 $i$ 的复合。其中，$i$ 是虚数单位，满足 $i^2=−1$。复指数函数的定义如下：\n$e^{ix}=cos(x)+isin(x)$\n\n其中，$cos(x)$ 和 $sin(x)$ 分别是余弦函数和正弦函数。这个公式被称为欧拉公式\n请注意，符号 $i$ 是虚数单位，不应与字母 $x$ 混淆。","x":780,"y":-440,"width":560,"height":260},
+		{"id":"b776e120c62a1fba","type":"text","text":"# 在命令行下和运行文件的区别\n>[MATLAB在命令行下和运行文件的区别是：在命令行下，可以直接输入MATLAB命令并执行，而运行文件则需要先编写好MATLAB代码，然后将其保存为.m文件，最后通过命令行或者其他方式运行该文件。如果您想在命令行下直接运行.m文件，可以使用以下命令：`matlab -nosplash -nodesktop -r yourmfile`。其中，`yourmfile`是您要运行的.m文件名（不需要加.m后缀）。](https://www.mathworks.com/products/matlab.html)[1](https://www.mathworks.com/products/matlab.html)[2](https://blog.csdn.net/qq_16019107/article/details/77882017)","x":1537,"y":-298,"width":443,"height":198}
+	],
+	"edges":[
+		{"id":"17693ce42314ef3b","fromNode":"06fe20d34e714671","fromSide":"right","toNode":"58ab80ae77d9e185","toSide":"left"},
+		{"id":"90a6a3f5003aa245","fromNode":"58ab80ae77d9e185","fromSide":"right","toNode":"3c2c24242a7ed88d","toSide":"left"},
+		{"id":"e4c05e8053a1f549","fromNode":"3c2c24242a7ed88d","fromSide":"right","toNode":"b776e120c62a1fba","toSide":"left"}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"70ca385e7f33fa2a","type":"text","text":"flavor n. 味道，口味\n- They sell 32 different flavors of ice cream.\n- 他们出售32种不同口味的冰淇凌","x":-555,"y":-113,"width":375,"height":213},
+		{"id":"a1606907dbf97c90","type":"text","text":"某种特色或气氛\n\n- Foreign visitors help to give an international flavor to the occasion.\n- 外国客人使这个场合显出一种国际性的气氛","x":20,"y":-239,"width":375,"height":213},
+		{"id":"b64e7721704b09db","type":"text","text":"v. 调味\n- You can use garlic/ _ˈɡɑːlɪk_ to flavor the soup.\n- 你可以用大蒜给汤调味","x":20,"y":-6,"width":375,"height":213}
+	],
+	"edges":[
+		{"id":"ab73bd30330903fd","fromNode":"70ca385e7f33fa2a","fromSide":"right","toNode":"a1606907dbf97c90","toSide":"left"},
+		{"id":"90664d8afd533045","fromNode":"70ca385e7f33fa2a","fromSide":"right","toNode":"b64e7721704b09db","toSide":"left"}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"7ab7510da0d4d5bd","type":"text","text":"se =德语sex= six ","x":340,"y":-50,"width":250,"height":50},
+		{"id":"bbc6540262d2fc7a","type":"text","text":"6个月半个学年","x":876,"y":46,"width":224,"height":60},
+		{"id":"1482ee2a838c4504","type":"text","text":"日耳曼语系\nGermanic Group","x":-720,"y":172,"width":316,"height":170},
+		{"id":"8a08a7c2da67680c","type":"text","text":"德语","x":-160,"y":261,"width":316,"height":170},
+		{"id":"b0343ef99ba9367d","type":"text","text":"mester= 德语mensis=month ","x":340,"y":88,"width":250,"height":112},
+		{"id":"642a53d6883439c3","type":"text","text":"semester 学期\n- This is the last test of the semester / _sɪˈmestə(r)_.\n","x":-160,"y":-70,"width":353,"height":176},
+		{"id":"b2046f2820586255","type":"text","text":"# 印欧语系","x":-1336,"y":398,"width":316,"height":222},
+		{"id":"020b14aaaa9fa81f","type":"text","text":"意大利语","x":-720,"y":362,"width":316,"height":222},
+		{"id":"22f05ca69529883c","type":"text","text":"法语","x":-720,"y":604,"width":316,"height":222}
+	],
+	"edges":[
+		{"id":"3f5eafd50259e563","fromNode":"642a53d6883439c3","fromSide":"right","toNode":"7ab7510da0d4d5bd","toSide":"left"},
+		{"id":"cc551c9e8780f79c","fromNode":"642a53d6883439c3","fromSide":"right","toNode":"b0343ef99ba9367d","toSide":"left"},
+		{"id":"8156d494186a4a31","fromNode":"7ab7510da0d4d5bd","fromSide":"right","toNode":"bbc6540262d2fc7a","toSide":"left"},
+		{"id":"2354fcbb960e109d","fromNode":"b0343ef99ba9367d","fromSide":"right","toNode":"bbc6540262d2fc7a","toSide":"left"},
+		{"id":"0457c84821d9a94a","fromNode":"1482ee2a838c4504","fromSide":"right","toNode":"642a53d6883439c3","toSide":"left"},
+		{"id":"820d3266757f0cbe","fromNode":"1482ee2a838c4504","fromSide":"right","toNode":"8a08a7c2da67680c","toSide":"left"},
+		{"id":"06cd729c4b1a1172","fromNode":"b2046f2820586255","fromSide":"right","toNode":"1482ee2a838c4504","toSide":"left"},
+		{"id":"d976da61b80027fa","fromNode":"b2046f2820586255","fromSide":"right","toNode":"020b14aaaa9fa81f","toSide":"left"},
+		{"id":"5223f2bb53c0c123","fromNode":"b2046f2820586255","fromSide":"right","toNode":"22f05ca69529883c","toSide":"left"}
+	]
+}

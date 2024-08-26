@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"c743402bfab6ee1a","type":"file","file":"内容/litertureBox/考试/雅思/内功/听力/高频场景.md","x":-310,"y":-109,"width":400,"height":400},
+		{"id":"9b1fe55b61d1366d","type":"text","text":"# Personal Information","x":640,"y":-1080,"width":400,"height":100},
+		{"id":"02954274664bb65a","type":"text","text":"- Name:\n    - first name/ given name/ forename 名  \n    - last name/ family name/ surname 姓\n    - full name 全名","x":1360,"y":-1800,"width":400,"height":240}
+	],
+	"edges":[
+		{"id":"18837efafa136fb6","fromNode":"c743402bfab6ee1a","fromSide":"right","toNode":"9b1fe55b61d1366d","toSide":"left"},
+		{"id":"4c841e5533372376","fromNode":"9b1fe55b61d1366d","fromSide":"right","toNode":"02954274664bb65a","toSide":"left"}
+	]
+}

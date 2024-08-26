@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"0aae101ce075512f","type":"text","text":"# 基本功","x":334,"y":-480,"width":306,"height":168},
+		{"id":"596288004a7d88d7","type":"text","text":"# 单词","x":1011,"y":-1120,"width":429,"height":319},
+		{"id":"9056a794b3a0dcf5","type":"text","text":"# 前缀180","x":1720,"y":-962,"width":250,"height":202},
+		{"id":"250b06d21896844b","type":"text","text":"# 总体","x":-980,"y":340,"width":357,"height":172},
+		{"id":"1db2e23b402beef5","type":"text","text":"# 长难句","x":1011,"y":-606,"width":341,"height":252},
+		{"id":"773cf37f261c19e2","type":"text","text":"# 地道短语搭配","x":1011,"y":-180,"width":334,"height":181},
+		{"id":"067fa5c6161cae6a","type":"text","text":"# 易错词","x":1720,"y":-1540,"width":282,"height":122},
+		{"id":"8a25221dd7fa3436","type":"text","text":"# 核心1200","x":1720,"y":-1250,"width":238,"height":130}
+	],
+	"edges":[
+		{"id":"75910a4fca71daf8","fromNode":"250b06d21896844b","fromSide":"right","toNode":"0aae101ce075512f","toSide":"left"},
+		{"id":"fe86fc4880fa7289","fromNode":"0aae101ce075512f","fromSide":"right","toNode":"596288004a7d88d7","toSide":"left"},
+		{"id":"cc029e32ff077028","fromNode":"596288004a7d88d7","fromSide":"right","toNode":"8a25221dd7fa3436","toSide":"left"},
+		{"id":"dd6270750bf15a81","fromNode":"596288004a7d88d7","fromSide":"right","toNode":"9056a794b3a0dcf5","toSide":"left"},
+		{"id":"302da79d357d6fad","fromNode":"0aae101ce075512f","fromSide":"right","toNode":"1db2e23b402beef5","toSide":"left"},
+		{"id":"d9bffa2ff932a3ad","fromNode":"596288004a7d88d7","fromSide":"right","toNode":"067fa5c6161cae6a","toSide":"left"},
+		{"id":"812ce7e1d84775f3","fromNode":"0aae101ce075512f","fromSide":"right","toNode":"773cf37f261c19e2","toSide":"left"}
+	]
+}

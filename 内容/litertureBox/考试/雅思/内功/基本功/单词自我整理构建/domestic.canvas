@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"06f4cac10552f945","type":"text","text":"dam来自女爵士，法语","x":140,"y":-100,"width":375,"height":147},
+		{"id":"d0d609b1bcd0e143","type":"text","text":"dame/ _deɪm_在英文中保留女爵士的含义","x":660,"y":-100,"width":375,"height":147},
+		{"id":"4a650fe3b0377607","type":"text","text":"dom 女爵士在家里说了算，dam来自屋顶的dome / _dəʊm_","x":660,"y":100,"width":375,"height":147},
+		{"id":"eeb17a52c48c10a2","type":"text","text":"词根dom\n- 家、屋顶的含义","x":1235,"y":100,"width":375,"height":147},
+		{"id":"b974e2bfd6001b6a","type":"text","text":"domestic adj.家庭的 国内的 驯养的 \n\n","x":1810,"y":-77,"width":375,"height":147},
+		{"id":"eb76ddfec05417da","type":"text","text":"madam / _ˈmædəm_ n.尊称女士","x":-380,"y":-100,"width":375,"height":147},
+		{"id":"8f53e8a91ee672bc","type":"text","text":"GDP 的D 国内生产总值","x":2380,"y":-170,"width":375,"height":147},
+		{"id":"c8b0c3c31a62caea","type":"text","text":"domain/ _dəˈmeɪn_ n. 范围和领域， 数学中的值域","x":1810,"y":100,"width":375,"height":147},
+		{"id":"d32b318c7ac55668","type":"text","text":"dome $\\to$  home","x":2380,"y":-337,"width":375,"height":147},
+		{"id":"73affde008ea5991","type":"text","text":"domestic service 家政服务\ndomestic violence / _ˈvaɪələns_ 家庭暴力","x":2380,"y":-3,"width":375,"height":147},
+		{"id":"981f4a9acb3136e5","type":"text","text":"Domestic Flights 国内航班\nInternational Flights 国际航班","x":2380,"y":164,"width":375,"height":147},
+		{"id":"1e23ffbb3b8c2206","type":"text","text":"dominate / _ˈdɒmɪneɪt_ vt.支配","x":1810,"y":440,"width":375,"height":147},
+		{"id":"09b0bca5b5bc2513","type":"text","text":"His life is dominated by his wife.","x":2385,"y":440,"width":375,"height":147}
+	],
+	"edges":[
+		{"id":"eadc918d0b316caf","fromNode":"eb76ddfec05417da","fromSide":"right","toNode":"06f4cac10552f945","toSide":"left"},
+		{"id":"43755ee455cc60d9","fromNode":"06f4cac10552f945","fromSide":"right","toNode":"d0d609b1bcd0e143","toSide":"left"},
+		{"id":"fb6d7246f9034511","fromNode":"06f4cac10552f945","fromSide":"right","toNode":"4a650fe3b0377607","toSide":"left"},
+		{"id":"b47d698dbdea38c3","fromNode":"4a650fe3b0377607","fromSide":"right","toNode":"eeb17a52c48c10a2","toSide":"left"},
+		{"id":"ccb6412d773bf960","fromNode":"eeb17a52c48c10a2","fromSide":"right","toNode":"b974e2bfd6001b6a","toSide":"left"},
+		{"id":"33b313d7c092c2b7","fromNode":"b974e2bfd6001b6a","fromSide":"right","toNode":"8f53e8a91ee672bc","toSide":"left"},
+		{"id":"bd92b3b6a8f2d476","fromNode":"eeb17a52c48c10a2","fromSide":"right","toNode":"c8b0c3c31a62caea","toSide":"left"},
+		{"id":"fb2899577cf2009c","fromNode":"eeb17a52c48c10a2","fromSide":"right","toNode":"1e23ffbb3b8c2206","toSide":"left"},
+		{"id":"8bffa68e433d4129","fromNode":"b974e2bfd6001b6a","fromSide":"right","toNode":"d32b318c7ac55668","toSide":"left"},
+		{"id":"dbb615ace751e764","fromNode":"b974e2bfd6001b6a","fromSide":"right","toNode":"73affde008ea5991","toSide":"left"},
+		{"id":"3b1fa742266730e5","fromNode":"b974e2bfd6001b6a","fromSide":"right","toNode":"981f4a9acb3136e5","toSide":"left"},
+		{"id":"a1312fca0242d81b","fromNode":"1e23ffbb3b8c2206","fromSide":"right","toNode":"09b0bca5b5bc2513","toSide":"left"}
+	]
+}

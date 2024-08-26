@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"file","file":"内容/litertureBox/词汇/科学/旋度和散度.md","id":"5074f00c57205406","x":-229,"y":-96,"width":489,"height":476},
+		{"type":"text","text":"Nabla符号是一个倒三角形，代表了微分算子。在LaTeX中，你可以使用`\\nabla`命令来表示这个符号。如果你想要表示梯度算子，你可以使用`\\nabla f`或者`\\text{grad} \\ f`。下面是一个例子：\n\n$$\\nabla f = \\frac{\\partial f}{\\partial x} \\hat{i} + \\frac{\\partial f}{\\partial y} \\hat{j} + \\frac{\\partial f}{\\partial z} \\hat{k}$$\n\n\n[如果你想要更多关于LaTeX的信息，可以参考这个网站](https://www.physicsread.com/latex-gradient-operator/)[1](https://www.physicsread.com/latex-gradient-operator/)[2](https://www.physicsread.com/latex-nabla-symbol/)。","id":"68b7a40724e1268a","x":601,"y":-240,"width":519,"height":320},
+		{"id":"f214bb9776165d63","x":1267,"y":-300,"width":313,"height":141,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"9eb182fdcd0e29fc","fromNode":"5074f00c57205406","fromSide":"right","toNode":"68b7a40724e1268a","toSide":"left","label":"我初次见面Nabla这个倒三角的符号，我对微分什么一窍不通"},
+		{"id":"584416cbab5d0daf","fromNode":"68b7a40724e1268a","fromSide":"right","toNode":"f214bb9776165d63","toSide":"left"}
+	]
+}
