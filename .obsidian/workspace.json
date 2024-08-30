@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+                "file": "内容/litertureBox/考试/海叔/8.30/Ex-employee wins overtime, vacation-pay battle with Burnaby medical mask maker.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file:",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 585.5
+    "width": 387.5
   },
   "right": {
     "id": "3054b0dd3fcea6b7",
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+                "file": "内容/litertureBox/考试/海叔/8.30/Ex-employee wins overtime, vacation-pay battle with Burnaby medical mask maker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+                "file": "内容/litertureBox/考试/海叔/8.30/Ex-employee wins overtime, vacation-pay battle with Burnaby medical mask maker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md"
+                "file": "内容/litertureBox/考试/海叔/8.30/Ex-employee wins overtime, vacation-pay battle with Burnaby medical mask maker.md"
               }
             }
           },
@@ -293,25 +293,59 @@
         "height": 864,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "700e111d89bb6244",
+        "type": "window",
+        "children": [
+          {
+            "id": "c85d506b38c2f762",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2d6270c1e8e89e0a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "内容/litertureBox/考试/海叔/8.30/Ex-employee wins overtime, vacation-pay battle with Burnaby medical mask maker.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 864,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
-  "active": "bbe693a7392f7484",
+  "active": "2d6270c1e8e89e0a",
   "lastOpenFiles": [
-    "内容/litertureBox/文献/development project.md",
-    "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
-    "内容/任务面板.md",
     "内容/litertureBox/考试/海叔/内容.md",
-    "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/Notes on the Next War - A serious topical letter.md",
+    "内容/litertureBox/考试/海叔/8.30/Ex-employee wins overtime, vacation-pay battle with Burnaby medical mask maker.md",
+    "内容/litertureBox/考试/海叔/8.30",
     "内容/litertureBox/考试/海叔/8.24/'Micro-weddings' at Vancouver city hall reach almost 600 since 2020.md",
-    "模板/Heading.md",
     "内容/litertureBox/考试/海叔/未命名.md",
+    "模板/Heading.md",
     "模板/三段式.canvas",
+    "模板/段落.md",
+    "内容/任务面板.md",
+    "内容/litertureBox/文献/The most important statistical ideas of the past 50 years.md",
+    "内容/litertureBox/书籍/拜登1998公然羞辱军人/The Pentagon will not be responsible for any unit in the war.md",
+    "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/Notes on the Next War - A serious topical letter.md",
+    "内容/litertureBox/文献/development project.md",
     "内容/litertureBox/考试/海叔/8.14/Watch · ‘Pretty wild ride’ as speedway car flies  over spectator fence.md",
     "内容/litertureBox/考试/海叔/8.24",
     "内容/litertureBox/考试/海叔/8.20/未命名.md",
     "内容/litertureBox/考试/海叔/8.16/Doctors ask Liberal government to reconsider capital gains tax change.md",
-    "内容/litertureBox/书籍/拜登1998公然羞辱军人/The Pentagon will not be responsible for any unit in the war.md",
     "内容/litertureBox/考试/海叔/8.20",
     "内容/litertureBox/书籍/拜登1998公然羞辱军人",
     "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR/致下一场战争.canvas",
@@ -329,7 +363,6 @@
     "内容/战地/2042",
     "内容/战地",
     "内容/litertureBox/书籍/海明威/NOTES ON THE NEXT WAR",
-    "内容/litertureBox/书籍/海明威",
     "内容/litertureBox/考试/海叔/8.3/How Dan-D Foods founder went from Vietnam refugee to Canada’s ‘Cashew King’ Dan-D.md",
     "内容/litertureBox/考试/海叔/8.8/compares dentists' 'fears' on dental-care program to medicare rollout.md",
     "内容/litertureBox/考试/海叔/8.9/Survivors rally for justice 2 years after a fire killed 2 people and gutted Vancouver's Winters Hotel.md",
@@ -339,7 +372,6 @@
     "内容/litertureBox/考试/雅思/内功/基本功/前缀.canvas",
     "内容/litertureBox/考试/雅思/内功/基本功/单词自我整理构建/听写/测试.md",
     "内容/litertureBox/歌曲/all_my_people.md",
-    "内容/litertureBox/考试/雅思/内功/基本功/超易错/超易错词checklist.md",
     "内容/litertureBox/考试/雅思/内功/基本功/核心1200/核心1200拆分.canvas",
     "内容/litertureBox/考试/雅思/做卷子/敲门.canvas",
     "附件/Pasted image 20240816165319.png",
